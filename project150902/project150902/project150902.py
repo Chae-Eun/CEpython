@@ -36,5 +36,5 @@
 #a.join('abcd')
 #print(a)
 
-exit=input("종료할까요? ")
-print(exit.upper())
+#exit=input("종료할까요? ")
+#print(exit.upper())
