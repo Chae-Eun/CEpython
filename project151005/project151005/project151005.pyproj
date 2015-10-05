@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>350c5d29-526d-407a-b8cf-899ff8cd8b0f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>homework2.py</StartupFile>
+    <StartupFile>project151005.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,9 +22,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="homework2.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="project151005.py" />
   </ItemGroup>
   <PropertyGroup>
