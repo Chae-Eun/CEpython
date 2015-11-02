@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alcohol>
+  <cate1 tt="술">
+    <cate2 tt="소주">
+      <item>참이슬</item>
+      <item>처음처럼</item>
+      <item>잎새주</item>
+    </cate2>
+    <cate2 tt="맥주">
+      <item>카스</item>
+      <item>라거</item>
+      <item>하이트</item>
+    </cate2>
+  </cate1>
+  <cate1 tt="안주">
+    <cate2 tt="고가">
+      <item>회</item>
+      <item>등심</item>
+      <item>양곱창</item>
+    </cate2>
+    <cate2 tt="저가">
+      <item>참치캔</item>
+      <item>날계란</item>
+      <item>새우깡</item>
+    </cate2>
+  </cate1>
+</alcohol>

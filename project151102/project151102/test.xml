@@ -1,0 +1,4 @@
+<nodes>
+  <node attr1="a"> Node 1 </node>
+  <node attr1="b"> Node 2 </node>
+</nodes>
