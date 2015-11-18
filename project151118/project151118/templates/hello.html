@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+    <title>Server</title>
+</head>
+<body>
+    <h1>name</h1>
+    <h1>hihi</h1>
+    {% for i in item %}
+        <li><a href="{{i.href}}">{{i.caption}}</a></li>
+    {% endfor %}
+
+    <!--main.html에 body부분을 block을 이용해서 내용을 바꿔줄 수 있음-->
+    {% block body %}
+    hihi
+    {% endblock %}
+    hoho
+</body>
+</html>
